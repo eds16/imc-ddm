@@ -1,6 +1,11 @@
 # imc_caculator
 
-A new Flutter project.
+Lesson of Mobile Development Subject. Create an App that calculate the bmi and show the result.
+Less that 18.6: Under Weight
+Between 18.6 and 29.8: Ideal Weight
+Between 29.9 and 34.8: Grade I Obesity
+Between 34.9 and 39.8: Grade II Obesity
+Bigger that 39.9: Grade III Obesity
 
 ## Getting Started
 
